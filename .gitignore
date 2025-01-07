@@ -24,7 +24,9 @@
 # Ignore drupal core (if not versioning drupal sources)
 /web/vendor
 /web/core
-/web/modules/README.txt
+/web/modules/contrib
+/web/themes/contrib
+/web/sites/default/files
 /web/profiles/README.txt
 /web/sites/development.services.yml
 /web/sites/example.settings.local.php
